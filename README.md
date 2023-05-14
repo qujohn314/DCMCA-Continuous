@@ -8,6 +8,7 @@ Modifications to original algorithm:
 - Adapted for continuous actions for agents/components
 
 Notes:
--Manual tweeking of activation functions for specific problems.
+
+-Manual tweeking of activation functions for specific problems. 
 
 -Implementation error results in soft output clipping, and heavily coordinated suboptimal actions between agents.

@@ -9,4 +9,5 @@ Modifications to original algorithm:
 
 Notes:
 -Manual tweeking of activation functions for specific problems.
+
 -Implementation error results in soft output clipping, and heavily coordinated suboptimal actions between agents.
